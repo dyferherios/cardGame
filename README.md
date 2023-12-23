@@ -28,4 +28,17 @@ To get started with the game:
    ```
    https://github.com/dyferherios/cardGame.git
    ```
+2. Make sure you have the required dependencies installed.
+   ```
+   npm install nodejs
+   ```
+
+3. Run the game:
+   ```
+   cd card game
+   ```
+   ```
+   node cardGame.js
+   ```
+   
 
