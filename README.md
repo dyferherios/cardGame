@@ -26,14 +26,14 @@ To get started with the game:
 
 1. Clone the repository to your local machine:
    ```
-   https://github.com/dyferherios/cardGame.git
+   git clone https://github.com/dyferherios/cardGame.git
    ```
-2. Make sure you have the required dependencies installed.
+3. Make sure you have the required dependencies installed.
    ```
    npm install nodejs
    ```
 
-3. Run the game:
+4. Run the game:
    ```
    cd cardGame
    ```
