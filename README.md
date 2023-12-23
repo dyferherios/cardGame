@@ -35,7 +35,7 @@ To get started with the game:
 
 3. Run the game:
    ```
-   cd card game
+   cd cardGame
    ```
    ```
    node cardGame.js
